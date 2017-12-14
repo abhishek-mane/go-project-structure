@@ -17,7 +17,7 @@
 		{
 			"importpath": "golang.org/x/sys/windows",
 			"repository": "https://go.googlesource.com/sys",
-			"revision": "9418b3fdda89831e55f1d80702d6bf2f06d5438f",
+			"revision": "0131e684e801af603bb75e5d7f959b32442f327a",
 			"branch": "master",
 			"path": "/windows"
 		}
